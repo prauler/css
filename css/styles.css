@@ -1,0 +1,39 @@
+html {
+    color: #000;
+	font-family: arial;
+	font-size: 14;
+}
+table{
+	width: 300px;
+	border-collapse: collapse;
+}
+tr {
+	border-bottom: 1px solid grey;
+}
+th{
+	background: #118C95;
+	color:white;
+	padding: 8px;
+}
+.even {
+	background: #FFFFCE;
+} 
+.sel{
+	background: #A3DCE9;
+}
+td {
+	padding: 7px;
+}
+.first{
+	text-align: left;
+}
+.third {
+	text-align: right;
+}
+.second{
+	text-align: center;
+}
+.header {
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+}
